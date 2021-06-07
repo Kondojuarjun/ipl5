@@ -1,0 +1,16 @@
+main{
+        margin: 0;
+        background-color:rgb(97, 244, 183);
+    }
+ #players-card{
+    
+    margin: 20px;
+    width:30%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid #ddd;
+    box-shadow:4px 4px  #ccc ; 
+    background-color:yellow;
+    cursor: pointer;
+}

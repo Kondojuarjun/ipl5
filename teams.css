@@ -1,0 +1,16 @@
+#playerView{
+    margin: 20px;
+    width:100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ddd;
+    box-shadow:4px 4px  #ccc ;
+
+
+}
+.playerName{
+    display: flex;
+    flex-direction: column;
+}
